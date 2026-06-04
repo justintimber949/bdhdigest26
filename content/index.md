@@ -1,16 +1,13 @@
 ---
-title: "🏠 Buku Saku Bedah Digestif — Home"
+title: "🏠 Buku Saku Bedah Digestif"
 description: "Halaman utama buku saku bedah digestif untuk koas FKIK UIN Malang di RSUD Karsa Husada Batu. Navigasi ke semua sub-topik."
 date: 2026-06-04
 tags:
   - bedah-digestif
   - koas
-  - index
-  - home
   - buku-saku
 aliases:
   - home
-  - index
   - beranda
   - buku saku bedah
 ---
