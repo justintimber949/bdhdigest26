@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: justintimber949.github.io
+  baseUrl: justintimber949.github.io/bdhdigest26
   ignorePatterns:
     - private
     - templates
