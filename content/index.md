@@ -3,18 +3,16 @@ title: "🏠 Buku Saku Bedah Digestif — Home"
 description: "Halaman utama buku saku bedah digestif untuk koas FKIK UIN Malang di RSUD Karsa Husada Batu. Navigasi ke semua sub-topik."
 date: 2026-06-04
 tags:
-
-* bedah-digestif
-* koas
-* index
-* home
-* buku-saku
+  - bedah-digestif
+  - koas
+  - index
+  - home
+  - buku-saku
 aliases:
-* home
-* index
-* beranda
-* buku saku bedah
-
+  - home
+  - index
+  - beranda
+  - buku saku bedah
 ---
 
 # 🏠 Buku Saku Bedah Digestif
@@ -132,41 +130,41 @@ Anatomi (3A) ──────────────────────�
 
 ### Tanda-Tanda Klinis Wajib Hafal
 
-|Tanda|Positif Berarti|Topik|
-|-|-|-|
-|**Blumberg**|Iritasi peritoneum parietal|[[3B - Pemeriksaan Abdomen & Evaluasi Akut Abdomen|3B]]|
-|**Murphy**|Kolesistitis akut|[[3E - Penyakit Traktus Biliaris & Pankreas|3E]]|
-|**Rovsing**|Apendisitis|[[3C - Apendisitis & Peritonitis|3C]]|
-|**Psoas sign**|Apendisitis retrosekalis|[[3C - Apendisitis & Peritonitis|3C]]|
-|**Cullen + Grey Turner**|Pankreatitis hemoragik|[[3E - Penyakit Traktus Biliaris & Pankreas|3E]]|
-|**Courvoisier**|Ca pankreas/CBD|[[3E - Penyakit Traktus Biliaris & Pankreas|3E]]|
-|**Coffee bean sign**|Volvulus sigmoid|[[3D - Ileus Obstruktif & Hernia|3D]]|
-|**Goodsall's rule**|Prediksi traktus fistula ani|[[3F - Kondisi Anorektal, Kolorektal & Perioperatif|3F]]|
+| Tanda | Positif Berarti | Topik |
+|-------|-----------------|-------|
+| **Blumberg** | Iritasi peritoneum parietal | [[3B - Pemeriksaan Abdomen & Evaluasi Akut Abdomen\|3B]] |
+| **Murphy** | Kolesistitis akut | [[3E - Penyakit Traktus Biliaris & Pankreas\|3E]] |
+| **Rovsing** | Apendisitis | [[3C - Apendisitis & Peritonitis\|3C]] |
+| **Psoas sign** | Apendisitis retrosekalis | [[3C - Apendisitis & Peritonitis\|3C]] |
+| **Cullen + Grey Turner** | Pankreatitis hemoragik | [[3E - Penyakit Traktus Biliaris & Pankreas\|3E]] |
+| **Courvoisier** | Ca pankreas/CBD | [[3E - Penyakit Traktus Biliaris & Pankreas\|3E]] |
+| **Coffee bean sign** | Volvulus sigmoid | [[3D - Ileus Obstruktif & Hernia\|3D]] |
+| **Goodsall's rule** | Prediksi traktus fistula ani | [[3F - Kondisi Anorektal, Kolorektal & Perioperatif\|3F]] |
 
 ---
 
 ### Scoring Systems Wajib Siap
 
-|Skor|Untuk|Batas Operasi|Topik|
-|-|-|-|-|
-|**Alvarado (MANTRELS)**|Apendisitis|≥ 7 → operasi|[[3C - Apendisitis & Peritonitis|3C.1]]|
-|**Ranson's Criteria**|Pankreatitis akut|≥ 3 → berat|[[3E - Penyakit Traktus Biliaris & Pankreas|3E.4]]|
-|**Charcot's Triad**|Kolangitis|Ada → konsul urgent|[[3E - Penyakit Traktus Biliaris & Pankreas|3E.2]]|
-|**Reynolds Pentad**|Kolangitis supuratif|Ada → ICU + ERCP|[[3E - Penyakit Traktus Biliaris & Pankreas|3E.2]]|
-|**GCS**|Semua pasien tidak sadar|< 8 → airway|*(lihat tool konsul)*|
+| Skor | Untuk | Batas Operasi | Topik |
+|------|-------|--------------|-------|
+| **Alvarado (MANTRELS)** | Apendisitis | ≥ 7 → operasi | [[3C - Apendisitis & Peritonitis\|3C.1]] |
+| **Ranson's Criteria** | Pankreatitis akut | ≥ 3 → berat | [[3E - Penyakit Traktus Biliaris & Pankreas\|3E.4]] |
+| **Charcot's Triad** | Kolangitis | Ada → konsul urgent | [[3E - Penyakit Traktus Biliaris & Pankreas\|3E.2]] |
+| **Reynolds Pentad** | Kolangitis supuratif | Ada → ICU + ERCP | [[3E - Penyakit Traktus Biliaris & Pankreas\|3E.2]] |
+| **GCS** | Semua pasien tidak sadar | < 8 → airway | *(lihat tool konsul)* |
 
 ---
 
 ### Antibiotik Perioperatif Standar
 
-|Kondisi|Regimen|
-|-|-|
-|**Profilaksis operasi bersih-terkontaminasi**|Cefazolin 1–2 g IV, 30–60 menit pre-insisi|
-|**Profilaksis operasi kolorektal**|Cefazolin + Metronidazole 500 mg IV|
-|**Apendisitis non-perforasi**|Ceftriaxone + Metronidazole|
-|**Peritonitis / perforasi**|Ceftriaxone + Metronidazole ± Gentamicin|
-|**Kolangitis (empirik)**|Ceftriaxone + Metronidazole (atau Pip-Tazo)|
-|**Abses perianal (adjuvan)**|Metronidazole ± Cephalosporin generasi ke-3|
+| Kondisi | Regimen |
+|---------|---------|
+| **Profilaksis operasi bersih-terkontaminasi** | Cefazolin 1–2 g IV, 30–60 menit pre-insisi |
+| **Profilaksis operasi kolorektal** | Cefazolin + Metronidazole 500 mg IV |
+| **Apendisitis non-perforasi** | Ceftriaxone + Metronidazole |
+| **Peritonitis / perforasi** | Ceftriaxone + Metronidazole ± Gentamicin |
+| **Kolangitis (empirik)** | Ceftriaxone + Metronidazole (atau Pip-Tazo) |
+| **Abses perianal (adjuvan)** | Metronidazole ± Cephalosporin generasi ke-3 |
 
 ---
 
@@ -229,4 +227,3 @@ Redness · Edema · Ecchymosis · Discharge · Approximation
 ---
 
 *Terakhir diupdate: Juni 2026 · FKIK UIN Malang · RSUD Karsa Husada Batu*
-
